@@ -14,7 +14,6 @@ define('SYSPATH', 'system/');
 define('EXT', 'php');
 
 // Load core files
-require_once('system/core/System_Exception.php');
 require_once('system/core/System_Config.php');
 require_once('system/core/System.php');
 
